@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Website link
-url = 'https://literarysocietyaec.wixsite.com/blog'
+url = ''
 
 res = requests.get(url).content
 
